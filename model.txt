@@ -1,0 +1,1 @@
+https://storage.cloud.google.com/viprwatch-model-bucket/model_for_10snakes.h5
